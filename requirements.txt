@@ -1,1 +1,1 @@
-
+flask==2.3.3 flask-cors==4.0.0 pymupdf==1.23.5 python-docx==1.1.0 groq==0.5.0 neo4j==5.14.0 python-dotenv==1.0.0 tenacity==8.2.3
