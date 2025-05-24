@@ -1,4 +1,4 @@
-verdicts), and answering user queries. The backend uses Neo4j for data storage, Groq API for text processing, and logs performance metrics (accuracy, precision, recall, overall accuracy) to evaluate responses against a ground truth dataset. The frontend is built with React for an interactive user interface.
+A Flask-based chatbot for analyzing legal case documents, extracting key details (e.g., damages, dates, verdicts), and answering user queries. The backend uses Neo4j for data storage, Groq API for text processing, and logs performance metrics (accuracy, precision, recall, overall accuracy) to evaluate responses against a ground truth dataset. The frontend is built with React for an interactive user interface.
 
 Features
 
